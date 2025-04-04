@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Bootstrap-Demo",
+			"path": "."
+		},
+		{
+			"name": "Bootstrap",
+			"path": "D:/Bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootstrap-Demo"
+	}
+}
